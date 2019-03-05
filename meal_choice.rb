@@ -1,3 +1,3 @@
 def meal_choice(meat)
-return "meal_choice"
+return "meat #{meal_choice}"
 end
